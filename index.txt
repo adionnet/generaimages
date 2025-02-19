@@ -3,6 +3,6 @@
 <body>
 <h1>Test</h1>
 <p>test</p>
-<img src="C:\Users\PC\Documents\Github\generaimages\Image 1 Test">
+<img src="Image 1 Test.jpg">
 </body>
 </html>
