@@ -1,6 +1,7 @@
 <h3>Generaimages</h3>
 <h4>Landscapes and more: generative images of a hobbyist</h4>
 <hr>
+
 A supplementary page of https://generaimages.threadless.com/about and https://ko-fi.com/generaimages to download free images.
 
 The images are free to download. Attribution is optional.
